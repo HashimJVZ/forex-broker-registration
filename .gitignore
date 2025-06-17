@@ -1,0 +1,6 @@
+.python-version
+.vscode/
+__pycache__/
+source/.env
+source/db.sqlite3
+source/media/
